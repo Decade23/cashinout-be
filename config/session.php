@@ -155,7 +155,7 @@ return [
     |
     */
 
-    'domain' => env('SESSION_DOMAIN', 'https://cashinout-be.herokuapp.com/public'),
+    'domain' => env('SESSION_DOMAIN', 'cashinout.vercel.app'),
 
     /*
     |--------------------------------------------------------------------------
