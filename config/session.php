@@ -155,7 +155,7 @@ return [
     |
     */
 
-    'domain' => env('SESSION_DOMAIN', 'cashinout-be.herokuapp.com'),
+    'domain' => env('SESSION_DOMAIN', 'cashinout-be.herokuapp.com/public'),
 
     /*
     |--------------------------------------------------------------------------
