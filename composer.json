@@ -58,7 +58,7 @@
             "php artisan clear-compiled",
             "php artisan cache:clear",
             "php artisan config:clear",
-            "chmod -R 777 public/",
+            "chmod -R 777 public/"
         ]
     },
     "extra": {
